@@ -4,7 +4,7 @@ feature_text: |
   ## AI - Analytics - Automation
   AI - Analytics - Automation
 feature_image: "https://picsum.photos/1300/400?image=677"
-excerpt: "AI - Analytics - Automation
+excerpt: "AI - Analytics - Automation"
 ---
 
 In today's fast-paced digital world, AI, Analytics, and Automation are three interconnected and groundbreaking technologies that are revolutionizing the way we live and work.
@@ -25,4 +25,4 @@ In today's fast-paced digital world, AI, Analytics, and Automation are three int
 
 - Enhancing Daily Life: In our daily lives, AI, Analytics, and Automation play significant roles. Virtual assistants, smart home devices, personalized recommendations on streaming platforms, and even self-driving cars exemplify how these technologies are making our lives easier and more convenient.
 
-### _Join me on This Exciting Journey!_
+##### _Join me on This Exciting Journey!_
