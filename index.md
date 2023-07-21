@@ -2,7 +2,7 @@
 title: What Is AI, Analytics, and Automation?
 feature_text: |
   ## AI - Analytics - Automation
-  AI - Analytics - Automation
+  Blogs authored by Rahul Thakkar
 feature_image: "https://picsum.photos/1300/400?image=677"
 excerpt: "Welcome to my new tech blog"
 ---
