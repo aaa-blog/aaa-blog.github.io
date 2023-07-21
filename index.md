@@ -1,15 +1,13 @@
 ---
-title: aaa-blog
+title: What Is AI, Analytics, and Automation?
 feature_text: |
   ## AI - Analytics - Automation
   AI - Analytics - Automation
 feature_image: "https://picsum.photos/1300/400?image=677"
-excerpt: "AI - Analytics - Automation"
+excerpt: "Welcome to my new tech blog"
 ---
 
 In today's fast-paced digital world, AI, Analytics, and Automation are three interconnected and groundbreaking technologies that are revolutionizing the way we live and work.
-
-## What Is AI, Analytics, and Automation?
 
 **Artificial Intelligence (AI):** AI refers to the development of computer systems that can perform tasks that typically require human intelligence. These tasks include learning, reasoning, problem-solving, understanding natural language, and even recognizing patterns in vast amounts of data.
 
