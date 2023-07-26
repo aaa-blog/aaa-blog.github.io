@@ -15,9 +15,9 @@ Oh, and did I mention my love for customer interactions? I've had the chance to 
 
 <!-- more -->
 
-### What to Expect from Our Blog
+### What to Expect from the Blog
 
-Our blog aims to be your go-to resource for all things related to AI, Analytics, and Automation. We will cover a wide range of topics, including:
+This blog aims to be your go-to resource for all things related to AI, Analytics, and Automation. We will cover a wide range of topics, including:
 
 * Trends and Innovations: Stay updated with the latest trends and cutting-edge innovations in the world of AI, Analytics, and Automation.
 
