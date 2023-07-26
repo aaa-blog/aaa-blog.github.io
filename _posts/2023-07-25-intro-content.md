@@ -4,7 +4,6 @@ categories:
 - Intro
 - Content
 feature_image: "https://picsum.photos/2560/600?image=872"
-aside: true
 ---
 
 Hey there! I'm a technology consultant currently based out of Toronto with over 11 years of experience working in various exciting industries like capital markets, finance, insurance, and retail. I've had the opportunity to dive deep into Business Intelligence, Data Science, Cloud Computing, and Automation, designing and developing systems that make life easier for everyone.
