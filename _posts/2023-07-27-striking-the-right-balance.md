@@ -44,4 +44,6 @@ Learning from historical experiences - applying critical examination, ethical co
 
 Please like & connect with me on socials for more content like this.
 
+[LinkedIn](https://www.linkedin.com/in/thakkarrahul01 "Rahul Thakkar")
+
 {% include video.html id="maQGasNSYs8" title=" Interview of Neil Degrass Tyson with Stephen Colbert " %}
