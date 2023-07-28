@@ -18,7 +18,7 @@ Responsible use of knowledge, ethical considerations, and a balanced approach to
 
 ##### Impact of AI :
 
-Embracing AI and technological advancement offers a plethora of benefits. Some examples include increased efficiency, improved healthcare, better education, economic growth and many more areas it things to come. AI has made significant advancements in various areas in last few years & pace is astonishing.
+Embracing AI and technological advancement offers a plethora of benefits. Some examples include increased efficiency, improved healthcare, better education, economic growth and many more areas to come. AI has made significant advancements in various areas in last few years & pace is astonishing.
 
 Although, in real life this rapid technological advancement has made quite a lot of collateral damage. As Cathy O'Neil has detailed in her book, "Weapons of Math Destructions", these advancements can perpetuate inequality, reinforce biases, and harm individuals. AI models & advance algorithms have 3 main characteristics -
 
@@ -28,7 +28,7 @@ Although, in real life this rapid technological advancement has made quite a lot
 
 3. Impact: WMDs can significantly affect people's lives, often perpetuating inequality and discrimination.
 
-I will deep dive into some of the real-life examples in future. IT is a call to action for responsible and ethical use of mathematical models. 
+I will deep dive into some of the real-life examples in future. These examples are call to action for responsible and ethical use of mathematical models. 
 
 ##### Oppenheimer - Nuclear & AI parallel
 
