@@ -34,7 +34,7 @@ I will deep dive into some of the real-life examples in future. These examples a
 
 Since, promotion of Christopher Nolan's bigraphical thriller film has began, it has brought lot of interest & awareness in the ethical question of scientific discovery of atomic bomb.
 
-As it stands, both nuclear & AI are general purpose technologies. They have applications in both beneficial and harmful contexts. While AI has the potential to improve various industries, it also raises concerns about autonomous weapons and the misuse of personal data.
+As they are, both nuclear & AI are dual-use technology. They have applications in both beneficial and harmful contexts. While AI has the potential to improve various industries, it also raises concerns about autonomous weapons and the misuse of personal data.
 
 The development of nuclear weapons by Oppenheimer had a lasting impact on the world, shaping global politics and arms race dynamics. AI's continued advancement is projected to have a similarly profound and enduring impact on the future of humanity, as it becomes increasingly integrated into various aspects of society.
 
