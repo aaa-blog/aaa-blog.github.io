@@ -9,7 +9,7 @@ feature_text: |
 
 Which is the most used programming language in 2023? As per stackoverflow survey of professional developers, JavaScript takes the top spot followed by HTML/CSS & SQL. Why is SQL still featured on leaderboard? Let's explore more in this blog-
 
-{% include figure.html image="https://github.com/aaa-blog/aaa-blog.github.io/blob/main/assets/images/stackoverflow-developer-survey?raw=true" alt="Stackoverflow Developer Survey 2023" %}
+{% include figure.html image="https://github.com/aaa-blog/aaa-blog.github.io/blob/main/assets/images/stackoverflow-developer-survey.png?raw=true" alt="Stackoverflow Developer Survey 2023" %}
 [Source](https://survey.stackoverflow.co/2023/#section-most-popular-technologies-programming-scripting-and-markup-languages "Stackoverflow Developer Survey 2023")
 
 <!-- more -->
@@ -80,7 +80,7 @@ So this was facinating history of SQL which started at the dawn of modern comput
 
 [LinkedIn](https://www.linkedin.com/in/thakkarrahul01 "Rahul Thakkar")
 
-
-[References](https://arctype.com/blog/history-of-sql/ "History of SQL")
-(https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/#gref "SQL Standard ISO")
-(https://www.businessnewsdaily.com/5804-what-is-sql.html "What is SQL")
+* References :
+[History of SQL](https://arctype.com/blog/history-of-sql/ "History of SQL")
+[SQL Standard ISO](https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/#gref "SQL Standard ISO")
+[What is SQL](https://www.businessnewsdaily.com/5804-what-is-sql.html "What is SQL")
