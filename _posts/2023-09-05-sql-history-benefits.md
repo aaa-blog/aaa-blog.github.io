@@ -47,13 +47,13 @@ Below are the key features added in each iterations of SQL standards -
 
 ##### Why is SQL ubiquitous?
 
-* Built on First Principles
+##### Built on First Principles
 A first principle is a foundational proposition that can not be deduced from any other proposition or assumption. For instance, combining hydrocarbons with oxygen to create a chemical reaction. And this is still the principle that powers the internal combustion engines in every cars.
 
 In 1970, Codd created a new first principle for databases: tuple relational calculus. This new logic created led to the relational model, which then led to SQL. Tuple relational calculus is the chemical reaction, relational models are the internal combustion engines, and SQL is the car.
 
 
-* Usability & Bushnell’s Law
+##### Usability & Bushnell’s Law
 Building on first principles alone can not guarantee success. Assembly is as close as programmers can get to typing 1s and 0s, but it was still replaced with COBOL (and later C).
 
 The missing ingredient was usability.
@@ -64,23 +64,23 @@ Nolan Bushnell knew the secret to getting people to use a new product. Assembly 
 
 SQL found the perfect balance. With ~10 SQL commands, anyone can learn the 20% that will get you 80% of the way there.  But there is a long path of indexing, views, and optimization to becoming a master.
 
-* Listening and Adapting
+##### Listening and Adapting
 Query languages are not timeless monoliths but adaptive groups of standards that change over time. The SQL standard has continued to adapt over time and incorporate feedback from its users.
 
 Since the original conception we have seen 10 different SQL standards all with important updates as we noted in History of SQL standards.
 
-* Adoption of APIs
+##### Adoption of APIs
 The final secret behind SQL’s success has been the rise of application programming interfaces (API). APIs simplify programming by abstracting the underlying implementation and only exposing objects or actions the developer needs.
 
 APIs allow SQL to continue to adapt to new technologies with specialized syntax. In 2006 Hadoop introduced the distributed file system (HDFS), which was initially inaccessible to the SQL syntax. Then in 2013 Apache created Apache Impala, which allowed developers to use SQL to query HDFS databases.
 
 <!-- more -->
 
-So this was facinating history of SQL which started at the dawn of modern computing & going strong. In a later posts, we’ll discuss new technologies that are trying to create the electric engine for databases. Please like & connect with me on socials for more content like this.
+###### So this was facinating history of SQL which started at the dawn of modern computing & going strong. In a later posts, we’ll discuss new technologies that are trying to create the electric engine for databases. Please like & connect with me on socials for more content like this.
 
 [LinkedIn](https://www.linkedin.com/in/thakkarrahul01 "Rahul Thakkar")
 
-* References :
+References :
 [History of SQL](https://arctype.com/blog/history-of-sql/ "History of SQL")
 [SQL Standard ISO](https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/#gref "SQL Standard ISO")
 [What is SQL](https://www.businessnewsdaily.com/5804-what-is-sql.html "What is SQL")
