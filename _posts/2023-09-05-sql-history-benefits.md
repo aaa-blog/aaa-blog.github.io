@@ -9,6 +9,9 @@ feature_text: |
 
 Which is the most used programming language in 2023? As per stackoverflow survey of professional developers, JavaScript takes the top spot followed by HTML/CSS & SQL. Why is SQL still featured on leaderboard? Let's explore more in this blog-
 
+{% include figure.html image="https://github.com/aaa-blog/aaa-blog.github.io/blob/main/assets/images/stackoverflow-developer-survey?raw=true" alt="Stackoverflow Developer Survey 2023" %}
+[Source](https://survey.stackoverflow.co/2023/#section-most-popular-technologies-programming-scripting-and-markup-languages "Stackoverflow Developer Survey 2023")
+
 <!-- more -->
 
 SQL (Structured Query Language) is a programming language used to communicate with and manipulate databases. To get the most of the mounds of data they collect, many businesses must become versed in SQL. Here’s everything you should know about using SQL to access and manipulate data.
@@ -39,7 +42,45 @@ In 1986, the SQL language became formally accepted, and the ANSI Database Techni
 
 Below are the key features added in each iterations of SQL standards -
 
+{% include figure.html image="https://github.com/aaa-blog/aaa-blog.github.io/blob/main/assets/images/history-of-sql-standards.png?raw=true" alt="History of SQL standards" %}
+[Source](https://learnsql.com/blog/history-of-sql-standards/ "History of SQL standards")
 
+##### Why is SQL ubiquitous?
+
+* Built on First Principles
+A first principle is a foundational proposition that can not be deduced from any other proposition or assumption. For instance, combining hydrocarbons with oxygen to create a chemical reaction. And this is still the principle that powers the internal combustion engines in every cars.
+
+In 1970, Codd created a new first principle for databases: tuple relational calculus. This new logic created led to the relational model, which then led to SQL. Tuple relational calculus is the chemical reaction, relational models are the internal combustion engines, and SQL is the car.
+
+
+* Usability & Bushnell’s Law
+Building on first principles alone can not guarantee success. Assembly is as close as programmers can get to typing 1s and 0s, but it was still replaced with COBOL (and later C).
+
+The missing ingredient was usability.
+
+> "The best games are easy to learn but hard to master" - Nolan Bushnell, founder of Atari
+
+Nolan Bushnell knew the secret to getting people to use a new product. Assembly unfortunately was both difficult to learn and difficult to master.
+
+SQL found the perfect balance. With ~10 SQL commands, anyone can learn the 20% that will get you 80% of the way there.  But there is a long path of indexing, views, and optimization to becoming a master.
+
+* Listening and Adapting
+Query languages are not timeless monoliths but adaptive groups of standards that change over time. The SQL standard has continued to adapt over time and incorporate feedback from its users.
+
+Since the original conception we have seen 10 different SQL standards all with important updates as we noted in History of SQL standards.
+
+* Adoption of APIs
+The final secret behind SQL’s success has been the rise of application programming interfaces (API). APIs simplify programming by abstracting the underlying implementation and only exposing objects or actions the developer needs.
+
+APIs allow SQL to continue to adapt to new technologies with specialized syntax. In 2006 Hadoop introduced the distributed file system (HDFS), which was initially inaccessible to the SQL syntax. Then in 2013 Apache created Apache Impala, which allowed developers to use SQL to query HDFS databases.
+
+<!-- more -->
+
+So this was facinating history of SQL which started at the dawn of modern computing & going strong. In a later posts, we’ll discuss new technologies that are trying to create the electric engine for databases. Please like & connect with me on socials for more content like this.
 
 [LinkedIn](https://www.linkedin.com/in/thakkarrahul01 "Rahul Thakkar")
 
+
+[References](https://arctype.com/blog/history-of-sql/ "History of SQL")
+(https://blog.ansi.org/sql-standard-iso-iec-9075-2023-ansi-x3-135/#gref "SQL Standard ISO")
+(https://www.businessnewsdaily.com/5804-what-is-sql.html "What is SQL")
