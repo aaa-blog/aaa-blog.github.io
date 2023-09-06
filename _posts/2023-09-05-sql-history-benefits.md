@@ -45,7 +45,9 @@ Below are the key features added in each iterations of SQL standards -
 {% include figure.html image="https://github.com/aaa-blog/aaa-blog.github.io/blob/main/assets/images/history-of-sql-standards.png?raw=true" alt="History of SQL standards" %}
 [Source](https://learnsql.com/blog/history-of-sql-standards/ "History of SQL standards")
 
-##### Why is SQL ubiquitous?
+#### Why is SQL ubiquitous?
+
+<!-- more -->
 
 ##### Built on First Principles
 A first principle is a foundational proposition that can not be deduced from any other proposition or assumption. For instance, combining hydrocarbons with oxygen to create a chemical reaction. And this is still the principle that powers the internal combustion engines in every cars.
@@ -76,7 +78,9 @@ APIs allow SQL to continue to adapt to new technologies with specialized syntax.
 
 <!-- more -->
 
-###### So this was facinating history of SQL which started at the dawn of modern computing & going strong. In a later posts, we’ll discuss new technologies that are trying to create the electric engine for databases. Please like & connect with me on socials for more content like this.
+###### So this was facinating history of SQL which started at the dawn of modern computing & going strong. In a later posts, we’ll discuss new technologies that are trying to create the electric engine for databases. 
+
+Please like & connect with me on socials for more content like this.
 
 [LinkedIn](https://www.linkedin.com/in/thakkarrahul01 "Rahul Thakkar")
 
