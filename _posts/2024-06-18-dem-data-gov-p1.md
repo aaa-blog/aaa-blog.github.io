@@ -23,7 +23,7 @@ As defined by Collibra - "[Data governance](https://www.collibra.com/us/en/blog/
 
 According to the Data Management Body of Knowledge (DMBOK), the Aiken Pyramid illustrates fundamental Data Strategy principles and demonstrates how these elements are interconnected. At its base, the pyramid includes Data Governance, Data Quality, and Data Architecture, which are essential for the effectiveness of any data-driven initiative. These foundational areas establish the infrastructure needed to underpin other critical Data Management functions such as Data Modeling, Master & Reference Data Management, and Data Warehousing & Business Intelligence.
 
-
+{% include figure.html image="https://github.com/aaa-blog/aaa-blog.github.io/blob/main/assets/images/AikenPyramid.png?raw=true" alt="Aiken Pyramid" %}
 
 ##### Evolution to Modern Data Governance
 
@@ -41,5 +41,4 @@ Organizations should move beyond data cataloging and compliance as primary goals
 
 ###### If you learned something new and/or like the blog, give me a thumbs-up & connect with me on socials.
 
-
-
+[LinkedIn](https://www.linkedin.com/in/thakkarrahul01 "Rahul Thakkar")
