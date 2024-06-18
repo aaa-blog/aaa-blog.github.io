@@ -6,11 +6,9 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-Hey there! I'm a technology consultant currently based out of Toronto with over 11 years of experience working in various exciting industries like capital markets, finance, insurance, and retail. I've had the opportunity to dive deep into Business Intelligence, Data Science, Cloud Computing, and Automation, designing and developing systems that make life easier for everyone.
+Hey there! I'm a technology consultant currently based out of Toronto with over 12 years of experience working in various exciting industries like capital markets, finance, insurance, and retail. I've had the opportunity to dive deep into Data Engineering, Governance & Analytics. I'm passionate for designing and developing systems for enterpises at a confluence of IT & Business users.
 
-You can call me a problem-solving guru! I love tackling challenges and turning ideas into reality with my systems-oriented thinking and intelligent planning. Whether it's working with teams or communicating across different levels of an organization, working in onshore-offshore project teams, I thrive in a collaborative environment.
-
-Oh, and did I mention my love for customer interactions? I've had the chance to work with clients all over the globe, from North America to Europe and India.
+You can call me a problem-solving guru! I love tackling challenges and turning ideas into reality with my systems-oriented thinking and intelligent planning. Whether it's working with teams or communicating across different levels of an organization, working in onshore-offshore project teams, I thrive in a collaborative environment. I've had the chance to work with clients all over the globe, from North America to Europe and India.
 
 <!-- more -->
 
