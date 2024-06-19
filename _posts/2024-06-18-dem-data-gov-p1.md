@@ -39,6 +39,8 @@ Organizations should move beyond data cataloging and compliance as primary goals
 
 <!-- more -->
 
+
+
 ###### If you learned something new and/or like the blog, give me a thumbs-up & connect with me on socials.
 
 [LinkedIn](https://www.linkedin.com/in/thakkarrahul01 "Rahul Thakkar")

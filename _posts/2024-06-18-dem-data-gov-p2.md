@@ -19,7 +19,7 @@ All organizations need to be able to make decisions about how to manage data, re
 Small organizations, or ones with simple data environments, may be able to succeed in these goals through an informal system of governance. They may not even be aware of when they are switching between making management decisions and broader governance decisions. On the other hand, larger organizations, or ones with more complex data or compliance environments, generally find that they need to step back and agree upon a more formal system of governance.
 
 
-##### Data Governance Framework
+##### Data Governance Frameworks
 
 A data governance framework is the collection of rules, processes, and role delegations that ensure privacy and compliance in an organization's enterprise data management. It is a logical structure for organizing how we think about and communicate Data Governance concepts.
 
@@ -43,15 +43,20 @@ Supported by processes, tools, and communications, the Data Governance Work Prog
 
 A Data Governance Office (DGO) drives the work program. Other participants include decision-making councils, data stewards embedded in work program activities, and beneficiaries of the program who provide decision-makers and stewards.
 
-For Framework Components find details "[here](https://datagovernance.com/the-dgi-data-governance-framework/dgi-data-governance-framework-components/ "here"). 
+For Framework Components find details [here](https://datagovernance.com/the-dgi-data-governance-framework/dgi-data-governance-framework-components/ "here"). 
 
 
 <!-- more -->
 
-###### Con
+####### Other Frameworks
+
+Over the years, number of thought leaders have created & shared impeccable body of knowledge with practitioners. Few examples would be - [Non-Invasive Data Governance Framework](https://datagovernance.com/the-dgi-data-governance-framework/dgi-data-governance-framework-components/ "Non-Invasive Data Governance Framework") or the one from [NASCIO](https://datagovernance.com/the-dgi-data-governance-framework/dgi-data-governance-framework-components/ "NASCIO"). May be topic for blog for another day :)
+
+###### We touched on important topic of strategy implementing DG program for enterprises formally. This is very essential step for long term success of the initiative. Frameworks gave us system of ideas for guiding subsequent analysis and decision making. 
 
 <!-- more -->
 
-###### If you learned something new and/or like the blog, give me a thumbs-up & connect with me on socials.
+
+###### If you learned something new and/or like the blog, give me a thumbs-up on LinkedIn & connect with me on socials.
 
 [LinkedIn](https://www.linkedin.com/in/thakkarrahul01 "Rahul Thakkar")
