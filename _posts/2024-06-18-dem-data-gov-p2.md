@@ -48,15 +48,13 @@ For Framework Components find details [here](https://datagovernance.com/the-dgi-
 
 <!-- more -->
 
-####### Other Frameworks
+###### Other Frameworks
 
 Over the years, number of thought leaders have created & shared impeccable body of knowledge with practitioners. Few examples would be - [Non-Invasive Data Governance Framework](https://datagovernance.com/the-dgi-data-governance-framework/dgi-data-governance-framework-components/ "Non-Invasive Data Governance Framework") or the one from [NASCIO](https://datagovernance.com/the-dgi-data-governance-framework/dgi-data-governance-framework-components/ "NASCIO"). May be topic for blog for another day :)
 
 ###### We touched on important topic of strategy implementing DG program for enterprises formally. This is very essential step for long term success of the initiative. Frameworks gave us system of ideas for guiding subsequent analysis and decision making. 
 
-<!-- more -->
 
-
-###### If you learned something new and/or like the blog, give me a thumbs-up on LinkedIn & connect with me on socials.
+If you learned something new and/or like the blog, give me a thumbs-up on LinkedIn & connect with me on socials.
 
 [LinkedIn](https://www.linkedin.com/in/thakkarrahul01 "Rahul Thakkar")

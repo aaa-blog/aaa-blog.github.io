@@ -37,10 +37,6 @@ Organizations should move beyond data cataloging and compliance as primary goals
 
 ###### As DG has evolved, it has enabled enterprises to achieve business led view of data landscape. We will explore more on implementation strategies & available tooling in future. 
 
-<!-- more -->
-
-
-
-###### If you learned something new and/or like the blog, give me a thumbs-up & connect with me on socials.
+If you learned something new and/or like the blog, give me a thumbs-up & connect with me on socials.
 
 [LinkedIn](https://www.linkedin.com/in/thakkarrahul01 "Rahul Thakkar")
